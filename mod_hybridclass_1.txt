@@ -1,0 +1,5 @@
+mod_hybridclass_1
+https://github.com/creauxx/Python.git
+
+modify the arcane trickster class to get the ring and to get additional illusion/enchantment cantrips/spells in the beginning and casts with dex not int and you get magical ambush at lvl 3.
+figure out how to test mods in the larian tool - should be able to lvl up a character and test easily.  
